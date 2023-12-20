@@ -17,8 +17,8 @@ A basic VBA script designed to analyze and summarize stock data in an Excel spre
 ## Technologies
 Project created and run using:
 
-- Microsoft Excel for Mac Version 16.73
-- Microsoft Visual Basic for Applications 7.1
+- Microsoft Excel 
+- Microsoft Visual Basic 
 ## Setup
 Use VBA Script on Excel files with Columns containing:
 
